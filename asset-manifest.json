@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e3d4910.css",
+    "main.css": "/static/css/main.17de4eb3.css",
     "main.js": "/static/js/main.e4ec4863.js",
     "static/media/erwai2.png": "/static/media/erwai2.32fb5770a23ae3a4ecdd.png",
     "index.html": "/index.html",
-    "main.0e3d4910.css.map": "/static/css/main.0e3d4910.css.map",
+    "main.17de4eb3.css.map": "/static/css/main.17de4eb3.css.map",
     "main.e4ec4863.js.map": "/static/js/main.e4ec4863.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e3d4910.css",
+    "static/css/main.17de4eb3.css",
     "static/js/main.e4ec4863.js"
   ]
 }
